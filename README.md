@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Homework 3: Buffer Management in PostgreSQL
 ### CS186, UC Berkeley, Fall 2012
 ### Points: [10% of your final grade](https://sites.google.com/a/cs.berkeley.edu/cs186-fa2012/additional-course-information)
@@ -342,3 +343,9 @@ Copying submission of assignment hw3....
 Submission complete.
 ```
 
+=======
+buffer_manager
+==============
+
+Implementation of different page replacement policies
+>>>>>>> 00bcd735efdddc0343a18a72db1bb2462749f33a
