@@ -1,4 +1,4 @@
 buffer_manager
 ==============
 
-Implmentation of different page replacement policies
+Implementation of different page replacement policies
