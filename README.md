@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # Homework 3: Buffer Management in PostgreSQL
 ### CS186, UC Berkeley, Fall 2012
-### Points: [10% of your final grade](https://sites.google.com/a/cs.berkeley.edu/cs186-fa2012/additional-course-information)
-### Note: *This homework is to be done in pairs! You are not allowed to make your code publicly accessible, such as putting it on a git public repository. Please refer to [Berkeley Code of Student Conduct](http://campuslife.berkeley.edu/sites/campuslife.berkeley.edu/files/UCB-Code-of-Conduct-new%20Jan2012.pdf) for details.
-### Due: Tuesday 23 October 2012 (You have 4 slip days for all CS186 projects. Use them wisely.)
 
 ##Table Of Contents
 *  [Outline](https://github.com/cs186-fa12/fa12/blob/master/hw3/README.md#outline)
